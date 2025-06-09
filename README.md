@@ -18,7 +18,6 @@ This repository contains my submission for Home Assignment 2. It includes implem
 - *Q1 - Convolution with Different Parameters*
 - *Q2 - CNN Feature Extraction using Filters and Pooling*
 - *Q3 - Data Preprocessing (Normalization vs. Standardization + Logistic Regression)*
-- requirements.txt – Dependencies to install
 - README.md – This file
 -dog.jpg – Used for Sobel filtering (or generated if missing)
 
